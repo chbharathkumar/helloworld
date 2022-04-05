@@ -8,6 +8,7 @@ Good Morning
 To build
 --------
     mvn clean package
+    This is for testing
 
 To run
 ------
