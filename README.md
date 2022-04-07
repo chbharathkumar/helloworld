@@ -13,5 +13,4 @@ To build
 To run
 ------
     java -cp target/helloworld-1.0.jar com.coveros.demo.helloworld.HelloWorld
-This is for testing job
-This is for Hook
+    This is Sonar Job
